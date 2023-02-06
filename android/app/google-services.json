@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377238060296",
+    "project_id": "flutter-hearme",
+    "storage_bucket": "flutter-hearme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377238060296:android:57a603db72d22a4a5f40bd",
+        "android_client_info": {
+          "package_name": "com.example.hear_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377238060296-nhadr875jmm12vufoldhqfht3n445adk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX8ilW71EhNM6vVXotT5m2zU35ZTw5luA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377238060296-nhadr875jmm12vufoldhqfht3n445adk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
